@@ -69,6 +69,10 @@ dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
 ```
 
 ```bash
+
+dotnet add package Microsoft.EntityFrameworkCore.Design
+```
+```bash
 public class Empleados
     {
         [Key]
